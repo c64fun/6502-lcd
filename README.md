@@ -1,4 +1,4 @@
-#6502-lcd
+# 6502-lcd
 
 System 6502/6510/8502 -> Hitachi HD61830 -> Sharp LM40001
 
